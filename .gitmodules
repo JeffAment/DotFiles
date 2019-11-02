@@ -1,0 +1,9 @@
+[submodule ".dotFilesSubmodules/zsh/plugins/zsh-autosuggestions"]
+	path = .dotFilesSubmodules/zsh/plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions
+[submodule ".dotFilesSubmodules/zsh/plugins/zsh-syntax-highlighting"]
+	path = .dotFilesSubmodules/zsh/plugins/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
+[submodule ".dotFilesSubmodules/zsh/themes/powerlevel9k"]
+	path = .dotFilesSubmodules/zsh/themes/powerlevel9k
+	url = https://github.com/bhilburn/powerlevel9k.git

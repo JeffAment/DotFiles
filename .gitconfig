@@ -1,0 +1,16 @@
+[user]
+	name = JeffAment
+	email = 21976019+JeffAment@users.noreply.github.com
+	signingkey = BD1780C23D8E03D9
+[diff]
+	tool = kdiff3
+[difftool "p4merge"]
+	path = /usr/bin/kdiff3
+[difftool]
+	prompt = false
+[merge]
+	tool = kdiff3
+[mergetool "p4merge"]
+	path = /usr/bin/kdiff3
+[mergetool]
+	prompt = false
