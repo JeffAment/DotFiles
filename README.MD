@@ -18,7 +18,7 @@
 `$ curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh -o ~/git-prompt.sh`</br>
 `$ curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash -o ~/git-completion.bash`</br>
 10. Periodically update submodules:</br>
-`$ git submodule update --remote --merge`
+`$ dotfiles submodule update --remote --merge`
 
 # Notes on how this repo was made for reference
 `$ git init --bare $HOME/.dotFiles`</br>
