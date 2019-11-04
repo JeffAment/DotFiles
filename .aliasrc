@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+alias ka="killall" \
+	SS="sudo systemctl" \
+	yt="youtube-dl --add-metadata -i -o '%(upload_date)s-%(title)s.%(ext)s'" \
+	yta="yt -x -f bestaudio/best" \
+	ytmp3="yt -x --audio-format mp3" \
+	dotfiles='/usr/bin/git --git-dir=$HOME/.dotFiles/ --work-tree=$HOME'

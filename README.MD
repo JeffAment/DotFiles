@@ -17,7 +17,8 @@
 9. Pull in two git plugins for bash:</br>
 `$ curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh -o ~/git-prompt.sh`</br>
 `$ curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash -o ~/git-completion.bash`</br>
-10. Periodically update submodules:</br>
+10. Install and enable nerdfont.</br>
+11. Periodically update submodules:</br>
 `$ dotfiles submodule update --remote --merge`
 
 # Notes on how this repo was made for reference
